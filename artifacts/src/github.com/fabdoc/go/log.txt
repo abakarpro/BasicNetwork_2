@@ -1,0 +1,1 @@
+[31m2024-06-20 00:07:20.650 BST [main] InitCmd -> ERRO 001[0m Fatal error when initializing core config : FABRIC_CFG_PATH /home/abakar/Documents/Projects/BasicNetwork-2.0/artifacts/channel/config/ does not exist
